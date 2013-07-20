@@ -1,0 +1,1 @@
+<p>This is an example of a dialog loaded by a plugin...</p>
